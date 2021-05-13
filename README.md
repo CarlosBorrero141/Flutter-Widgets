@@ -1,6 +1,7 @@
 # widgets
 
-A new Flutter project.
+Proyecto ded Flutter que trabaja con los widgets mas usados.
+Estoes una prueba de uso de Widgets
 
 ## Getting Started
 
